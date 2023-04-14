@@ -4,4 +4,4 @@
   </a>
 </h1>
 
-<p align="center">A generic api for s3 compatible object stores</p>
+<p align="center">A generic interface for S3 compatible object stores</p>

@@ -1,5 +1,5 @@
 {
   "name": "@quackware/object-store",
-  "description": "A generic api for s3 compatible object stores",
+  "description": "A generic interface for S3 compatible object stores",
   "version": "0.0.1"
 }
